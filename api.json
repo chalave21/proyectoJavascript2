@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 5500,
+      "id": 1,
+      "title": "Doctor Strange",
+      "Url": "https://m.media-amazon.com/images/I/61gCUmYUptS._AC_SL1300_.jpg"
+    },
+    {
+      "precio": 3800,
+      "id": 2,
+      "title": "La Bruja Escarlata 1",
+      "Url": "https://m.media-amazon.com/images/I/61QJ5yB6caL._AC_SL1300_.jpg"
+    },
+    {
+      "precio": 1500,
+      "id": 3,
+      "title": "La Bruja Escarlata 2",
+      "Url": "https://m.media-amazon.com/images/I/51nUHZov1hL._AC_SL1300_.jpg"
+    },
+    {
+      "precio": 2900,
+      "id": 4,
+      "title": "Ironman",
+      "Url": "https://m.media-amazon.com/images/I/61Bx7HZwXGL._AC_SL1300_.jpg"
+    },
+    {
+      "precio": 5400,
+      "id": 5,
+      "title": "Thor",
+      "Url": "https://m.media-amazon.com/images/I/61Dnoh5EXdS._AC_SL1200_.jpg"
+    },
+    {
+      "precio": 5500,
+      "id": 6,
+      "title": "Nebulosa",
+      "Url": "https://m.media-amazon.com/images/I/51Q2SyOelQL._AC_SL1000_.jpg"
+    }
+  ]
